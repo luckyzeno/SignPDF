@@ -2,7 +2,7 @@
 
   PDF文档电子签章工具，利用CA证书为PDF文档添加一个具有法律效力的电子签章。
 
-# 特色
+## 特色
 
   1. 采用命令行执行。将源代码使用Eclipse打包为Runnable Jar File，使用命令
       java -jar SignPDF.jar [PDF文件] [CA证书] [签章X轴坐标] [签章Y轴坐标] [签章宽度] [签章高度] [签章所在页数] 
